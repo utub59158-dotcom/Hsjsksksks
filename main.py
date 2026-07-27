@@ -31,10 +31,10 @@ import telebot
 
 
 ADMINS = [8171375787] #admins
-BOT_TOKEN = '8487794679:AAF_V2Zp6Ob2Cmzhbe80uGzgjWItoiiY9Ks'#token from @BotFather
+BOT_'#token from @BotFather
 BOT_NAME = 'WorkCheker' #bot name
-CRYPTOBOT_API_KEY = '613723:AAQxuaP0OM176DM121i21GXbvK46cs1zwR3' #cryptobot api key
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1524473156159668355/ecgOaBX3Kxt3KceU0cZo2WhXylwSJNuLMy5GComm6Ef1MIS0RJ8SeIKxIqNEkgVonqst" #discord webhook url
+CRYPTOBOT_API_' #cryptobot api key
+DISCORD_WEBHOOK_URL" #discord webhook url
 DATABASE_DIR = 'Users/'
 COOKIE_FILES_DIR = 'filesforcookie/'
 PROXIES_FILE = 'proxies.txt'
